@@ -6,6 +6,9 @@
 
 ## 📋 역할 분담
 
+API 명세서 및 담당자
+https://daffy-quasar-0bf.notion.site/API-51e0e607ffcd4ead9a09b90025beef56
+
 | 담당자 | 내용 |
 | :----: | :-------: |
 | 최민기 |           |
